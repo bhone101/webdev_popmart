@@ -1,11 +1,5 @@
-# webdev_popmart
-
-# need to do
-1. add pictures
-2. connect links to buttons (check product management page) 
-3. make pages like admin-login pop up in the same page instead goin to the page (might need to fix html idk)
-
-# updated
-1. Done adding pictures
-2. connect links to buttons (done mostly)
-3. made admin page dropped down (advanced search page left)
+1. product_managememt.html
+   search bar hover is weird
+   among three icons, only trash bin is hoverable?
+   connect add prodcut button and add_product page (the same for edit and delete product)
+   
